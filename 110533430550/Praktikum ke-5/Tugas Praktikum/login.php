@@ -21,9 +21,9 @@ Algoritma Program
 	</head>
 	<body>
 		<?php
-			session_start();
+			ignoring session_start(T_CONSTANT_ENCAPSED_STRING);
 			ini_set('display_errors', 1);
-			define('_VALID', 1);
+			define('Constant_VALID', 1);
 			//include file eksternal
 			include('auth.php');
 			init_login();

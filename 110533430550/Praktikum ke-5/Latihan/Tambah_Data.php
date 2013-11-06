@@ -20,7 +20,6 @@
 		<td>Alamat</td>
 		<td><input type="text" name="alamat" size=60 /></td>
 	</tr>
-	49
 	<tr>
 		<td></td>
 		<td><input type="submit" value="Simpan" /></td>
